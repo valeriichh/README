@@ -1,5 +1,5 @@
 
-Привет 👋 Меня зовут Валерия
+Привет ✨ Меня зовут Валерия
 =====================
 
 Начинающий QA-инженер
@@ -7,6 +7,7 @@
 
 * 🌍  Живу в тёплом Новороссйиске
 * ✉️  TG: [https://t.me/valericchh]
+* 📄  Пример тестовой документации: https://docs.google.com/spreadsheets/d/18YluvQ9CjnDnJUwNghvsfQN2VzJ5A8rb5X9NIT87Lf0/edit?usp=sharing
   
 
 ## Тестирование API и интеграций
