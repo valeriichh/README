@@ -7,7 +7,7 @@
 -----------
 
 * 🌍  Живу в тёплом Новороссйиске
-* ✉️  Телеграмм: [https://t.me/valericchh]
+* ✉️  TG: [https://t.me/valericchh]
   
 
 ## Тестирование API и интеграций
@@ -30,3 +30,4 @@
 </div>
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Тут+будут+обновления)](https://git.io/typing-svg)
